@@ -19,7 +19,7 @@ pip install torch transformers matplotlib seaborn
 ## Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/BertViz.git
+   git clone https://github.com/HitoshiSatoo/BertViz.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
